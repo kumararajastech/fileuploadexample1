@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FileUpload.Api/FileUpload.Api.csproj" />
+  <Project Path="FileUpload.Tests/FileUpload.Tests.csproj" />
+</Solution>

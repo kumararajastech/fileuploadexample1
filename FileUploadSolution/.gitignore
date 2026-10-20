@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+storage/*
+!storage/.gitkeep
+appsettings.*.local.json
